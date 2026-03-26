@@ -2,3 +2,28 @@
     box-sizing: border-box;
 }
 
+h1 {
+    background-color: pink;
+    color:white;
+}
+#p1 {
+    color:yellow;
+}
+.p2 {
+    color:chartreuse;
+}
+.p3 {
+    color:lightblue;
+}
+.border1 {
+    
+    height:120px;
+    background-color:aliceblue;
+    border: 5px solid darkorange;
+}
+.bottom-text {
+    color:white;
+}
+html {
+    background-color: darkgray;
+}
