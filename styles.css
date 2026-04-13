@@ -2,22 +2,25 @@
     box-sizing: border-box;
 }
 
-h1 {
+#name-title {
     background-color: pink;
     color:white;
 }
-#p1 {
+#student-dev {
     color:yellow;
 }
-.p2 {
+.about-me {
     color:chartreuse;
 }
-.p3 {
+.skill-list {
     color:lightblue;
+    display:flex;
+    display:inline-flex;
+    padding: left 50%;
 }
-.border1 {
+.project-box {
     
-    height:120px;
+    height:100px;
     background-color:aliceblue;
     border: 5px solid darkorange;
 }
