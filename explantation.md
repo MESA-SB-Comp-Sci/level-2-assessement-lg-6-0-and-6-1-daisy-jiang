@@ -6,3 +6,6 @@ To make the name "Alex Rivera" the way it is, I made a rule for the h1 tag since
 To make only the text, "Student Developer" the color yellow, I had to use an ID tag to seperate it from the rest of the other p tags since they are a different color. I then used "color" to indicate that I was only changing the text color to yellow and nothing else.
 
 
+1.one thing i like about daisy's work is how organized it is and well made it is.
+2.i dont think she needs to improve her work it looks very good.
+3.
